@@ -4,7 +4,6 @@ Employee Management Portal (ADO.NET &amp; MySQL)
 
 
 
-
   <img src="https://raw.githubusercontent.com/aksoy-dev/react-employee-management-portal/main/bassic-employee-management-portal/source/img/1.png" width="700" />
   <img src="https://raw.githubusercontent.com/aksoy-dev/react-employee-management-portal/main/bassic-employee-management-portal/source/img/2.png" width="700" /> 
   <img src="https://raw.githubusercontent.com/aksoy-dev/react-employee-management-portal/main/bassic-employee-management-portal/source/img/3.png" width="700" />
