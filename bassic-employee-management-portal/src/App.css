@@ -1,0 +1,64 @@
+body {
+  background-color: #e0e0e0 !important;
+}
+.container {
+  background-color: white;
+  margin-top: 50px !important;
+  margin-bottom: 50px !important;
+  border: 1px solid #ccc;
+  box-shadow: 3px 3px 3px #999;
+  border-radius: 12px !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.nav-custom {
+  border-top-left-radius: 12px !important;
+  border-top-right-radius: 12px !important;
+}
+.logo {
+  width: 30px;
+  height: 30px;
+}
+.employee-portal {
+  margin: auto !important;
+  margin-left: 100px !important;
+}
+.dep-custom {
+  margin-right: 20px !important;
+  margin-left: 20px !important;
+}
+.add-button {
+  margin-bottom: 20px !important;
+}
+.delete-button {
+  margin-left: 8px !important;
+}
+.edit-button {
+  margin-left: 2px !important;
+}
+
+.delete-button-c {
+  width: 18px !important;
+  height: 30px !important;
+}
+.edit-button-c {
+  width: 18px !important;
+  height: 30px !important;
+}
+.add-button-c {
+  width: 15px;
+  height: 15px;
+  margin-left: 5px !important;
+  padding-bottom: 3px;
+}
+.add-button-alt {
+  width: 25px;
+  height: 25px;
+  padding-bottom: 1px;
+}
+.edit-button-e {
+  width: 15px;
+  height: 15px;
+  margin-left: 5px !important;
+  padding-bottom: 3px;
+}
